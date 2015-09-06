@@ -1,0 +1,22 @@
+{
+  "name": "hrmobile-angular",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiantianquan/HrMobile-Angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiantianquan/HrMobile-Angular/issues"
+  },
+  "homepage": "https://github.com/tiantianquan/HrMobile-Angular#readme",
+  "devDependencies": {
+    "browserify": "^11.0.1"
+  }
+}
